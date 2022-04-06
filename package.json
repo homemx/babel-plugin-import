@@ -1,5 +1,5 @@
 {
-  "name": "babel-plugin-import",
+  "name": "@homemx/babel-plugin-import",
   "version": "1.13.3",
   "description": "Component modular import plugin for babel.",
   "repository": {
@@ -45,7 +45,7 @@
     "eslint-config-prettier": "^6.11.0",
     "eslint-plugin-import": "^2.20.2",
     "eslint-plugin-prettier": "^3.1.3",
-    "father-next": "^3.0.0-alpha.3",
+    "father-next": "3.0.0-alpha.3",
     "husky": "^4.2.5",
     "lint-staged": "^10.2.8",
     "material-ui": "^0.20.2",
